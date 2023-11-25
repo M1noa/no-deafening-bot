@@ -14,7 +14,7 @@ The Deafened User Disconnect Bot is a Discord bot designed to monitor voice chan
 - Customizable exclusion of specific users by their Discord user ID.
 
 ## Configuring
-   - Replace `'BOT_TOKEN'` in the code with your Discord bot token.
+   - Replace `BOT_TOKEN` in the code with your Discord bot token.
    - Customize the `ID_OF_USER_TO_EXCLUDE` variable with the ID of any user you want to exclude from disconnection.
    - Change `GUILD_TO_RUN_IN` with the ID of the guild/server to run the discord bot in.
 
