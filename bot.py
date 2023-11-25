@@ -6,7 +6,7 @@ intents.voice_states = True
 
 client = discord.Client(intents=intents)
 guild_id = GUILD_TO_RUN_IN
-excluded_user_id = IF OF USER TO EXCLUDE
+excluded_user_id = ID_OF_USER_TO_EXCLUDE
 
 @client.event
 async def on_ready():
