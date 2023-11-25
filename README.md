@@ -1,4 +1,6 @@
-# Deafened User Disconnect Bot
+# No Deafenening User Disconnect Bot
+[![ViewCount](https://img.shields.io/endpoint?url=https://hits.dwyl.com/Minoa/FreshPC.json%3Fcolor%3Dblue&label=Views)](http://hits.dwyl.com/Minoa/FreshPC)
+ [![GitHub forks](https://img.shields.io/github/forks/M1noa/FreshPC.svg)](https://github.com/M1noa/FreshPC/network)
 
 ## Introduction
 
